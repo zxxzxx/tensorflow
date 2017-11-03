@@ -1,4 +1,4 @@
-
+# coding: utf-8
 from os.path import join
 f=open('./chinese.txt','r')#加载3500个常用汉字
 CH_CHAR=[]

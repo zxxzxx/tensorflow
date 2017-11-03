@@ -1,3 +1,4 @@
+# coding: utf-8
 import numpy as np
 
 from cfg import MAX_CAPTCHA, CHAR_SET_LEN,gen_char_set

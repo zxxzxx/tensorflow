@@ -1,3 +1,4 @@
+# coding: utf-8
 """
 参考文章：http://blog.topspeedsnail.com/archives/10858
 """
